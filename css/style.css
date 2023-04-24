@@ -1,0 +1,30 @@
+:root {
+--primaryColor: black;
+--secondaryColor: white;
+--alternativecolor: red;
+--bordercolor: #ab2124;
+
+
+font-family: 'Chivo Mono', monospace;
+
+}
+/*logo*/
+#logo {
+    width: 5rem 
+}
+
+* ::before,
+*::after { 
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+
+body {
+
+
+
+
+
+}
